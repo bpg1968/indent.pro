@@ -1,1 +1,1 @@
-echo # indent.pro
+# indent.pro
